@@ -1,0 +1,33 @@
+SwiftBite Food Delivery - Customer Support Knowledge Base
+
+1. Operating Hours:
+SwiftBite delivers from 10:00 AM to 11:00 PM, 7 days a week. We do not accept orders outside of these hours.
+
+2. Delivery Areas:
+We currently deliver to the metropolitan area, including Downtown, Northside, West End, and the University District. We do not deliver to the suburbs at this time.
+
+3. Refund Policy:
+- If an item is missing from your order, we will issue a full refund for that specific item.
+- If your entire order is incorrect or never arrived, we will issue a full refund for the entire order including delivery fees.
+- Refunds typically take 3-5 business days to process and reflect on your bank statement.
+- We do not offer refunds if you simply did not like the taste of the food.
+
+4. Order Tracking:
+You can track your order status in real-time through the order confirmation link sent to your email or SMS. If the status hasn't updated in 30 minutes, please let us know your order number.
+
+5. Dietary Restrictions & Allergies:
+We try our best to accommodate dietary restrictions, but cross-contamination can happen in partner restaurant kitchens. Always specify your allergies in the "Special Instructions" box before checkout. We cannot guarantee 100% allergen-free meals.
+
+6. Contacting Delivery Drivers:
+Once your food has been picked up by a driver, you will receive an SMS with a link to call or text the driver directly.
+
+7. Minimum Order Amount:
+The minimum order amount for delivery is $15.00 before taxes and fees.
+
+8. Fees:
+- Standard delivery fee: $3.99
+- Service fee: 10% of the subtotal
+- Small order fee: An additional $2.00 fee applies to orders under $20.00.
+
+9. Canceling an Order:
+You can cancel your order for a full refund within 5 minutes of placing it. Once the restaurant has accepted the order and started preparing the food, cancellations are no longer possible and refunds will not be issued.
